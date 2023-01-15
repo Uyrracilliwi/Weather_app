@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Team 33</string>
+
+    <string-array name="theme_array">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Green</item>
+    </string-array>
+
+    <string name="title_activity_map">MapActivity</string>
+</resources>
